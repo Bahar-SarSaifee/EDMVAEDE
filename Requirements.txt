@@ -1,0 +1,6 @@
+python==3.10.12
+scikit-learn==0.22.1
+numpy==1.22.3
+Keras-Preprocessing
+pydot
+pydotplus
